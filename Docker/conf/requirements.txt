@@ -1,0 +1,13 @@
+logparser==0.8.2
+lxml==4.2.1
+mmh3==2.5.1
+numpy==1.18.2
+pandas==1.0.3
+PyMySQL==0.8.1
+redis==2.10.6
+requests==2.21.0
+Scrapy==1.5.0
+scrapy-redis==0.6.8
+scrapyd==1.2.0
+Twisted==18.9.0
+scrapydweb==1.4.0
